@@ -1,0 +1,9 @@
+Run the program with a ./
+Wait for the 2 windows to add a wireless instantiation.
+A Airodump window will open, wait for the target Ap to show up, press control-C
+Enter the number of the ap and press enter.
+when the chopchop and fragment window open press y and enter on each.
+when one finishes close the other
+and in the make arp window enter y and press enter
+wait till 42000 packets have been sent out.
+Control -c on the using arp windows
