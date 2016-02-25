@@ -1,0 +1,11 @@
+|1.Run the program with a ./|
+|:--------------------------|
+|2.Wait for the Driver Control windows to close.|
+|3.An Airodump window will open, wait for the target AP to show up, and press control-C.|
+|4.Enter the number of the target AP and press enter.|
+|5.When the chopchop and fragment window open, enter "y" and press enter on each.|
+|6.When one finishes close the other window with alt-F4|
+|7.When the using arp request window opens, enter "y" and press enter.|
+|8.Wait utill 42000 packets have been sent out.|
+|9.Press alt-F4 to close the using arp window|
+|10.It cracks and connects on its own.|
